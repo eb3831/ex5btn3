@@ -20,7 +20,6 @@ public class MainActivity extends AppCompatActivity {
         tv = findViewById(R.id.tv);
         btn = findViewById(R.id.btn);
 
-
     }
 
     public void clicked(View view) {
